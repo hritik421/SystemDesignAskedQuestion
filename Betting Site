@@ -1,0 +1,15 @@
+Develop the solution for the "Betting system" where users can bett for different kind of sport events
+ 
+Overview of the application logic:
+ 
+The system should provide the opportunity for users to make betts for different kind of sport events like games or matches.
+ 
+The user should have a personal account inside the system.
+The user can deposit money to his account and make betts from this account.
+Any user can make unlimited amount of betts to any of sport events that presented in the system limited by BettDeadline (see below).
+ 
+From the other side the system should operate with sport events. 
+Each event that presented in the system should be categorised by type of sport (Football, Basketball etc.)
+Each event should contain the field such as BettDeadline, after this date, betts won't be acceptable for it.
+Each event should contain the MaxBettAmount and MixBettAmount as limitation for a bett.
+has context menu
